@@ -73,11 +73,4 @@ Les entraînements ont été réalisés en local avec accélération matérielle
 - **Framework** : TensorFlow 2.10 (version cible assurant la compatibilité CUDA/cuDNN avec l'architecture GPU)
 - **Outils** : Keras, Scikit-learn, Pandas, NLTK, Gensim
 
----
 
-## 🚀 Installation & Utilisation
-
-1. **Cloner le projet** :
-   ```bash
-   git clone [https://github.com/](https://github.com/)<votre-pseudo>/<nom-du-repo>.git
-   cd <nom-du-repo>
