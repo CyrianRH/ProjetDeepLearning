@@ -11,8 +11,6 @@ Ce dépôt regroupe deux études comparatives complètes :
 - [Projet 1 : Détection d'Éoliennes sur Images Satellites](#-projet-1--détection-déoliennes-sur-images-satellites)
 - [Projet 2 : Classification de Textes - Profils de Métiers](#-projet-2--classification-de-textes---profils-de-métiers)
 - [Contraintes & Environnement Matériel](#-contraintes--environnement-matériel)
-- [Installation & Utilisation](#-installation--utilisation)
-- [Rapports & Supports](#-documentation)
 
 ---
 
